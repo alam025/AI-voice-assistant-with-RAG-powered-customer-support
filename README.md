@@ -198,7 +198,7 @@ python src/main.py  # Start the magic! ✨
 
 ## 🛠️ **Tech Stack**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="600">
+<img src="https://media.tenor.com/JT6kgTZUWt8AAAAi/snake-reptile.gif" width="600">
 
 ### **Core Technologies**
 <p>
