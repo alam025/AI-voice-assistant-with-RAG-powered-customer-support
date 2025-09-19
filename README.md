@@ -198,23 +198,23 @@ python src/main.py  # Start the magic! ✨
 
 ## 🛠️ **Tech Stack**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
-### **Core Technologies**
+### **🐍 Core Technologies**
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### **Voice & Communication**
+### **🎙️ Voice & Communication**
 <p>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 <img src="https://img.shields.io/badge/ElevenLabs-8A2BE2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Speech_Recognition-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### **Infrastructure**
+### **☁️ Infrastructure**
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
