@@ -1,6 +1,19 @@
+"""
+RAG Integration Module for AI Voice Assistant
+===========================================
+
+This module provides Retrieval-Augmented Generation capabilities,
+including vector database management, semantic search, and context retrieval.
+"""
+
 # tts_test.py
 import requests
 import os, uuid
+import logging
+from typing import List, Dict, Any
+import chromadb
+from sentence_transformers import SentenceTransformer
+from src.config.settings import get_rag_settings
 
 ELEVENLABS_API_KEY = ELEVENLABS_API_KEY
 VOICE_ID = VOICE_ID 
