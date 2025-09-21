@@ -291,6 +291,20 @@ python src/main.py  # Start the magic! ✨
 
 <div align="center">
 
+## 📹 Live Demo Video
+
+**Watch the AI Voice Assistant in action:**
+
+[![AI Voice Assistant Demo](https://drive.google.com/thumbnail?id=1MrT9YPaVSimGIf4ABvFUPyjLmlKUhGRU&sz=w600-h400)](https://drive.google.com/file/d/1MrT9YPaVSimGIf4ABvFUPyjLmlKUhGRU/view?usp=drive_link)
+
+*Click to watch the complete demonstration of voice processing, AI responses, and real-time conversation capabilities*
+
+**Demo Features:**
+- 🎙️ Real-time voice recognition
+- 🤖 GPT-4 powered responses  
+- 🔊 Natural voice synthesis
+- ⚡ Sub-2 second response times
+
 ## 👨‍💻 **Meet the Creator**
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
