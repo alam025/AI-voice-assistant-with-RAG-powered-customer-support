@@ -1,3 +1,19 @@
+"""
+Enterprise AI Voice Assistant - Main Application
+===============================================
+
+FastAPI-based web server for handling Twilio voice calls with
+AI-powered conversation management and real-time response generation.
+
+Features:
+- Real-time voice call handling with Twilio integration
+- AI-powered conversation management with GPT-4
+- RAG-enhanced knowledge retrieval
+- Enterprise monitoring and analytics
+- Production-ready error handling and logging
+"""
+
+
 import requests
 import speech_recognition as sr
 import os, tempfile
