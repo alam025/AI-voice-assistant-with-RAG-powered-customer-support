@@ -1,3 +1,19 @@
+"""
+Advanced Voice Processing Module for AI Voice Assistant
+=====================================================
+
+This module provides enterprise-grade voice processing capabilities including
+speech-to-text conversion, audio preprocessing, and real-time voice analysis.
+
+Features:
+- High-accuracy speech recognition with Google Speech API
+- Audio preprocessing and noise reduction
+- Real-time voice activity detection
+- Multi-format audio support (WAV, MP3, M4A)
+- Conversation context preservation
+"""
+
+
 # main.py
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import PlainTextResponse
